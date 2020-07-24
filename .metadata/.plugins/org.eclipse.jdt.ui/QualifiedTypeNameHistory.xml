@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="abstractfactory.Computer"/>
+    <fullyQualifiedTypeName name="abstractfactory.ServerFactory"/>
+    <fullyQualifiedTypeName name="abstractfactory.PCFactory"/>
+</qualifiedTypeNameHistroy>

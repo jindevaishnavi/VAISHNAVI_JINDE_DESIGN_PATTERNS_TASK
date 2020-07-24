@@ -1,0 +1,4 @@
+
+public class WeeklyPlan extends SubsriberPlan{
+
+}
